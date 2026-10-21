@@ -1,0 +1,11 @@
+@media (max-width: 480px) {
+  .app {
+    height: 95vh;
+    height: 95dvh;
+    border-radius: 16px;
+  }
+
+  body {
+    padding: 0;
+  }
+}
